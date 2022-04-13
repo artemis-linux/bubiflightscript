@@ -4,7 +4,7 @@ install steps:
 
 2: extract the bubishell folder to your betaflight configurator folder
 
-3: run the .bat file (.sh for linux/mac users) and voila, bubiflight
+3: run the .bat file (.sh for linux users) ("sh ./bubishell" for mac) and voila, bubiflight
 
 the finished product:
 
